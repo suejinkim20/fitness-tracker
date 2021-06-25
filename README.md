@@ -7,3 +7,14 @@ The user is able to:
 * Add new exercises to a new workout plan.
 * View the combined weight of multiple exercises from the past seven workouts on the stats page.
 * View the total duration of each workout from the past seven workouts on the stats page.
+
+## Usage
+
+
+## Technologies Used
+* NodeJS
+* Express
+* MongoDB
+* Mongoose
+* MongoDB Atlas Cloud
+* Heroku
